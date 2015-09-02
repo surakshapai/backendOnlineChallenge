@@ -1,0 +1,25 @@
+{
+  "name": "backend-online",
+  "version": "1.0.0",
+  "description": "Deploying hbs, mongo, node to heroku",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surakshapai/backendOnlineChallenge.git"
+  },
+  "keywords": [
+    "Heroku"
+  ],
+  "author": "Suraksha Pai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surakshapai/backendOnlineChallenge/issues"
+  },
+  "homepage": "https://github.com/surakshapai/backendOnlineChallenge#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
