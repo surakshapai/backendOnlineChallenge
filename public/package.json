@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Deploying hbs, mongo, node to heroku",
   "main": "server.js",
-  "scripts": {
-    "test": "node server.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/surakshapai/backendOnlineChallenge.git"
@@ -20,6 +17,7 @@
   },
   "homepage": "https://github.com/surakshapai/backendOnlineChallenge#readme",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "express3-handlebars": "^0.5.2"
   }
 }
