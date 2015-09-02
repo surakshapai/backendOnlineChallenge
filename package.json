@@ -1,0 +1,14 @@
+{
+	"name": "backendOnlineChallenge",
+	"description": "Testing deploying of node and adding mongoDB instance",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "~4.9.8", 
+		"express-handlebars": "~2.0.1",
+		
+	}
+
+}
